@@ -7,13 +7,13 @@
         <div id="carouselExample" class="carousel slide carousel-fade">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/banner01.jpg" class="d-block w-100" alt="The Last Of US Part II">
+                    <img src="site/img/banner01.jpg" class="d-block w-100" alt="The Last Of US Part II">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/banner02.jpg" class="d-block w-100" alt="hogwarts legacy">
+                    <img src="site/img/banner02.jpg" class="d-block w-100" alt="hogwarts legacy">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/banner03.jpg" class="d-block w-100" alt="Horizon Forbidden West">
+                    <img src="site/img/banner03.jpg" class="d-block w-100" alt="Horizon Forbidden West">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
